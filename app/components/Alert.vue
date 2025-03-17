@@ -15,6 +15,7 @@ const { color } = defineProps({
 
 <style scoped>
 .alert {
+  color:black;
   display: flex;
   align-items: center;
   padding: 1rem;
